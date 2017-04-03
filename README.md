@@ -6,7 +6,7 @@ Please click to watch the overview video :<br>
 
 (https://youtu.be/RMkJD_9dkck)
 
-URL link:https://narnimah.github.io/Network-Visualization-of-Cancer-Protein-/index.html
+URL link:https://narnimah.github.io/Cancer-Network/index.html
 
 Major Features:
 
